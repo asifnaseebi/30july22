@@ -1,0 +1,57 @@
+.body2{
+    background: linear-gradient(rgba(56, 11, 11, 0.4),rgba(44, 13, 13, 0.4)),url('z.jpg');
+
+width: 100%px;
+height: 100vh;
+background-size: cover;
+background-position: center;
+text-align: center;
+
+}
+.body1{
+    background: linear-gradient(rgba(56, 11, 11, 0.4),rgba(44, 13, 13, 0.4)),url('z2.jpg');
+
+width: 100%px;
+height: 100vh;
+background-size: cover;
+background-position: center;
+text-align: center;
+
+}
+
+.body3{
+    background: linear-gradient(rgba(56, 11, 11, 0.4),rgba(44, 13, 13, 0.4)),url('z1.jpg');
+
+width: 100%px;
+height: 100vh;
+background-size: cover;
+background-position: center;
+text-align: center;
+
+}
+h1{
+    font-size: 70px;
+    font-style: italic;
+    color: blue;
+    
+    }
+    p{
+    font-size: 40px;
+    font-style: normal;
+    }
+    input{
+    border-radius: 30px;
+    width: 250px;
+    height: 50px;
+    
+    }
+    button{
+    border-radius: 20px;
+    }
+    h2{
+    font-size: 30px;
+    font-style: italic;
+    }
+    a{
+    font-size: 30px;
+    }
